@@ -13,6 +13,7 @@ a conversão para a cotação do cambio atual.
 
 
 *Aprendizados:*
+
 Colocando em prática os conceitos de functions elaborando uma aplicação real.
 
 ![1](https://github.com/user-attachments/assets/6735f181-7b87-4aca-b1a4-eaa6405a44ce)
